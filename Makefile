@@ -14,6 +14,8 @@ clean:
 	@$(MAKE) -C examples clean
 	@$(MAKE) -C workshop clean
 
-run:
-	$(all)
+run: all execute
+
+
+execute:
 	@$(MAKE) -C workshop run

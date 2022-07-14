@@ -11,6 +11,8 @@
 *.a
 *.so
 *~
+*.png
+*.log
 
 #
 # Generated files

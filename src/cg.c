@@ -1780,7 +1780,6 @@ static const cg_comp_function_t cg_comp_map[] = {
 
 static inline void blend_solid(struct cg_surface_t * surface, enum cg_operator_t op, struct cg_rle_t * rle, uint32_t solid)
 {
-	printf("%d",op);
 	cg_comp_solid_function_t func = cg_comp_solid_map[op];
 	int count = rle->spans.size;
 	struct cg_span_t * spans = rle->spans.data;

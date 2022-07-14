@@ -14,7 +14,7 @@ mingw32-make.exe all --print-data-base --no-builtin-variables --no-builtin-rules
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Thu Jul 14 20:35:43 2022
+# Make data base, printed on Thu Jul 14 22:27:51 2022
 
 # Variables
 
@@ -39,20 +39,21 @@ HOMEDRIVE = C:
 # makefile
 CURDIR := d:/libcg/src
 # default
-SHELL := sh.exe
+SHELL :=  
+sh.exe
 # makefile (from 'Makefile', line 14)
 RM := del /q /f
 # environment
 WINDIR = C:\Windows
 # environment
-VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_translationsConfigFile":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_resolvedLanguagePackCo 
-reLocation":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a","_corruptedFile":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_translationsConfigFile":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a","_corruptedFile":"C:\\Users\\ShiroganeTsumugi\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\corrupted.info","_languagePackSupport":true}
 # environment
 VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # makefile (from 'Makefile', line 17)
 CFLAGS := -g -ggdb -Wall -O3
 # environment
-ONEDRIVE = C:\Users\ShiroganeTsumugi\OneDrive - stu.ahu.edu.cn
+ONEDRIVE = C:\Users\ShiroganeTsumugi\OneDri 
+ve - stu.ahu.edu.cn
 # environment
 QSYS_ROOTDIR = D:\intelFPGA_lite\20.1\quartus\sopc_builder\bin
 # environment
@@ -87,7 +88,8 @@ SDEPS :=
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_CWD = D:\libcg
+VSCODE_CWD = D 
+:\libcg
 # environment
 PATH = C:\Program Files\BellSoft\LibericaJDK-17\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp;C:\Program Files\AdoptOpenJDK\jdk-13.0.2.8-openj9\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\nodejs\;D:\Program Files\Portable\cudnn\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files\qemu;C:\TDM-GCC-64\bin;D:\Program Files\Dedicate\MATLAB\runtime\win64;D:\Program Files\Dedicate\MATLAB\bin;D:\Program Files\Dedicate\MATLAB\polyspace\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.2.1\;C:\Program Files (x86)\Tencent\΢��web�����߹���\dll;C:\Program Files\AntiMicroX\bin;C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Python\Python38\;C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps;C:\Users\ShiroganeTsumugi\AppData\Roaming\npm;C:\Infineon\LauncherService;C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Applet;D:\Program Files\Applet\platform-tools;D:\Program Files\Wrapper;C:\Program Files\OpenSSL-Win64\bin;D:\intelFPGA_lite\20.1\modelsim_ase\win32aloem;C:\Espressif\tools\idf-git\2.34.2\mingw64\bin;C:\Program Files (x86)\Nmap;C:\Program Files\SDCC\bin;D:\texlive\2022\bin\win32
 # environment
@@ -99,7 +101,8 @@ ZES_ENABLE_SYSMAN = 1
 # environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
-VXIPNPPATH64 = C:\Program Files\IVI Foundation\VISA\
+VXIPNPPATH64 = C:\Program Files\IVI Fo 
+undation\VISA\
 # environment
 USERPROFILE = C:\Users\ShiroganeTsumugi
 # makefile (from 'Makefile', line 13)
@@ -134,8 +137,7 @@ PROGRAMFILES = C:\Program Files (x86)
 DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 # environment
 NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.1
-# environment 
-
+# environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
 ANSYSEMSV_ROOT212 = D:\Program Files\Dedicate\AnsysEM\Ansys Student\v212\Win64
@@ -169,8 +171,7 @@ MAKE = $(MAKE_COMMAND)
 MAKECMDGOALS := all
 # makefile (from 'Makefile', line 31)
 SOBJS := 
-# makefile  
-(from 'Makefile', line 28)
+# makefile (from 'Makefile', line 28)
 CPPDEPS := 
 # makefile (from 'Makefile', line 7)
 AS := gcc -x assembler-with-cpp
@@ -188,7 +189,8 @@ MAKE_VERSION := 3.82.90
 NAME := libcg.a
 # environment
 PROGRAMFILES(X86) = C:\Program Files (x86)
-# makefile (from 'Makefile', line 23)
+# ma 
+kefile (from 'Makefile', line 23)
 CFILES :=  ./util.c ./cg.c ./swft.c
 # automatic
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
@@ -203,8 +205,7 @@ MAKE_COMMAND := mingw32-make.exe
 # environment
 PROCESSOR_ARCHITEW6432 = AMD64
 # makefile (from 'Makefile', line 12)
-OC := obj 
-copy
+OC := objcopy
 # default
 .VARIABLES := 
 # environment
@@ -225,7 +226,8 @@ HOMEPATH = \Users\ShiroganeTsumugi
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 PROMPT = $P$G
-# environment
+# env 
+ironment
 MFLAGS = -wRrqp
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
@@ -285,7 +287,8 @@ FR_CUSTOMDATA_PATH = D:\game\SteamLibrary\steamapps\common\FaceRig\Mod\VP\PC_Cus
 # environment
 IFX_TOOLBOX_UUID = cc77827d-b8af-3d9c-87a7-2ce3b21c4830
 # environment
-SIMPLORER_HOME = D:\Program Files\Dedicate\AnsysEM\Ansys Student\v212\Win64
+SIMPLORER_HOME =  
+D:\Program Files\Dedicate\AnsysEM\Ansys Student\v212\Win64
 # default
 .RECIPEPREFIX := 
 # makefile (from 'Makefile', line 27)
@@ -323,7 +326,8 @@ ute 2020.2.1\ (key C:/Program Files/NVIDIA Corporation/Nsight Compute 2020.2.1/,
 # D:\intelFPGA_lite\20.1\modelsim_ase\win32aloem (key D:/intelFPGA_lite/20.1/modelsim_ase/win32aloem, mtime 1631172457): 110 files, no impossibilities.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1617976470): 31 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1657733921): 154 files, no impossibilities.
-# . (key d:/libcg/src, mtime 1657802129): 16 files, no impossibilities.
+# . (key d:/libcg/src, mtime 1657808846): 16 files, no impossibilities 
+.
 # C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp (key C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/libnvvp, mtime 1632054727): 14 files, no impossibilities.
 # C:\Program Files (x86)\nodejs\ (key C:/Program Files (x86)/nodejs/, mtime 1622560059): 11 files, no impossibilities.
 # D:\Program Files\Portable\cudnn\bin (key D:/Program Files/Portable/cudnn/bin, mtime 1617449169): 9 files, no impossibilities.
@@ -344,8 +348,7 @@ ion/PhysX/Common, mtime 1648838877): 11 files, no impossibilities.
 n38\Scripts\ (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Python/Python38/Scripts/, mtime 1652771708): 145 files, no impossibilities.
 # C:\Windows (key C:/Windows, mtime 1657774068): 122 files, no impossibilities.
 # C:\Program Files\AdoptOpenJDK\jdk-13.0.2.8-openj9\bin (key C:/Program Files/AdoptOpenJDK/jdk-13.0.2.8-openj9/bin, mtime 1631007759): 125 files, no impossibilities.
-# D:\Program Files\Applet\platform-tools (key D:/Program Files/Applet/platform-tools, mtime 1579664927): 19 files, no impos 
-sibilities.
+# D:\Program Files\Applet\platform-tools (key D:/Program Files/Applet/platform-tools, mtime 1579664927): 19 files, no impossibilities.
 # C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin (key C:/Program Files/Eclipse Foundation/jdk-16.0.2.7-hotspot/bin, mtime 1632230788): 123 files, no impossibilities.
 # C:\Program Files\qemu (key C:/Program Files/qemu, mtime 1648568886): 3 files, no impossibilities.
 # C:\Program Files\BellSoft\LibericaJDK-17\bin\ (key C:/Program Files/BellSoft/LibericaJDK-17/bin/, mtime 1655028387): 82 files, no impossibilities.
@@ -355,11 +358,11 @@ at'd.
 # D:\Program Files\Wrapper (key D:/Program Files/Wrapper, mtime 1621698687): 6 files, no impossibilities.
 # C:\Program Files (x86)\Nmap (key C:/Program Files (x86)/Nmap, mtime 1650028468): 37 files, no impossibilities.
 # C:\Windows\system32 (key C:/Windows/system32, mtime 1657738773): 3115 files, no impossibilities.
-# C:\Program Files\SDCC\bin (key C:/Prog 
-ram Files/SDCC/bin, mtime 1652802712): 41 files, no impossibilities.
+# C:\Program Files\SDCC\bin (key C:/Program Files/SDCC/bin, mtime 1652802712): 41 files, no impossibilities.
 # C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\ (key C:/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin/, mtime 1622892475): 2 files, no impossibilities.
 # D:\Program Files\Dedicate\MATLAB\polyspace\bin (key D:/Program Files/Dedicate/MATLAB/polyspace/bin, mtime 1631454741): 83 files, no impossibilities.
-# C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps (key C:/Users/ShiroganeTsumugi/AppData/Local/Microsoft/WindowsApps, mtime 1656915084): 25 files, no impossibilities.
+# C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps (key C:/Users/ShiroganeTsumugi/AppData/Local/Microsoft/WindowsAp 
+ps, mtime 1656915084): 25 files, no impossibilities.
 # C:\Program Files\AntiMicroX\bin (key C:/Program Files/AntiMicroX/bin, mtime 1647186020): 16 files, no impossibilities.
 
 # 5151 files, no impossibilities in 41 directories.
@@ -378,8 +381,7 @@ swft.h:
 
 C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h:
 #  Implicit rule search has been done.
-#  Last m 
-odified 2021-05-16 12:02:11
+#  Last modified 2021-05-16 12:02:11
 #  File has been updated.
 #  Successfully updated.
 
@@ -424,7 +426,7 @@ all: libcg.a
 # Not a target:
 cg.o.d:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 20:35:27
+#  Last modified 2022-07-14 22:27:23
 #  File has been updated.
 #  Successfully updated.
 
@@ -436,8 +438,9 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h:
 
 # Not a target:
 swft.o.d:
-#  Implicit rule search has been done.
-#  Last modified 2022-07-14 20:35:29
+#  Implicit rule s 
+earch has been done.
+#  Last modified 2022-07-14 22:27:26
 #  File has been updated.
 #  Successfully updated.
 
@@ -454,8 +457,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h:
 #  File has not been updated.
 
 C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h:
-#  Implicit rule sea 
-rch has been done.
+#  Implicit rule search has been done.
 #  Last modified 2021-05-18 01:14:01
 #  File has been updated.
 #  Successfully updated.
@@ -469,14 +471,14 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:36:22
+#  Last modified 2022-07-14 21:20:55
 #  File has been updated.
 #  Successfully updated.
 
 # Not a target:
 util.c:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:19:11
+#  Last modified 2022-07-14 21:20:55
 #  File has been updated.
 #  Successfully updated.
 
@@ -501,7 +503,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h:
 
 util.h:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:19:24
+#  Last modified 2022-07-14 21:20:55
 #  File has been updated.
 #  Successfully updated.
 
@@ -511,22 +513,21 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h:
 #  File has been updated.
 #  Successfully updated.
 
-cg.o: cg.c cg.c cg.h swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/ 
-assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
+cg.o: cg.c cg.c cg.h swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: 'cg'
-#  Last modified 2022-07-14 20:35:27
+#  Last modified 2022-07-14 22:27:24
 #  File has been updated.
 #  Successfully updated.
 #  recipe to execute (from 'Makefile', line 51):
 	@echo [CC] $<
 	@$(CC) $(CFLAGS) -MD -MP -MF $@.d $(INCDIRS) -c $< -o $@
 
-swft.o: swft.c swft.c swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/s 
-tddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
+swft.o: swft.c swft.c swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC 
+-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: 'swft'
-#  Last modified 2022-07-14 20:35:29
+#  Last modified 2022-07-14 22:27:26
 #  File has been updated.
 #  Successfully updated.
 #  recipe to execute (from 'Makefile', line 51):
@@ -545,8 +546,7 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h:
 #  File has been updated.
 #  Successfully updated.
 
-C:/TDM-GCC-64/x86_64-w64-min 
-gw32/include/stdint.h:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h:
 #  Implicit rule search has been done.
 #  Last modified 2021-05-16 12:02:13
 #  File has been updated.
@@ -564,7 +564,8 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h:
 #  File has been updated.
 #  Successfully updated.
 
-C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api 
+/stdio_s.h:
 #  Implicit rule search has been done.
 #  Last modified 2021-05-16 12:02:14
 #  File has been updated.
@@ -573,7 +574,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 # Not a target:
 util.o.d:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 20:35:25
+#  Last modified 2022-07-14 22:27:22
 #  File has been updated.
 #  Successfully updated.
 
@@ -600,8 +601,9 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h:
 
 libcg.a: util.o cg.o swft.o
 #  Implicit rule search has not been done.
-#  Last modified 2022-07-14 20:35:29
-#  File has been updated.
+#  Last modified 2022-07-14 22:27:26
+#  File has been upd 
+ated.
 #  Successfully updated.
 #  recipe to execute (from 'Makefile', line 43):
 	@echo [AR] Archiving $@
@@ -622,7 +624,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h:
 # Not a target:
 cg.c:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-13 03:16:21
+#  Last modified 2022-07-14 21:50:14
 #  File has been updated.
 #  Successfully updated.
 
@@ -639,7 +641,8 @@ swft.c:
 #  File has been updated.
 #  Successfully updated.
 
-C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h: 
+
 #  Implicit rule search has been done.
 #  Last modified 2021-05-16 12:02:13
 #  File has been updated.
@@ -651,13 +654,12 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h:
 #  File has been updated.
 #  Successfully updated.
 
-util.o: util.c util.c util.h cg.h swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC- 
-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
+util.o: util.c util.c util.h cg.h swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-G 
+CC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdint.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: 'util'
-#  Last modified 2022-07-14 20:35:25
-#  File has been update 
-d.
+#  Last modified 2022-07-14 22:27:22
+#  File has been updated.
 #  Successfully updated.
 #  recipe to execute (from 'Makefile', line 51):
 	@echo [CC] $<
@@ -696,8 +698,7 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h:
 
 # No general ('VPATH' variable) search path.
 
-# strcache b 
-uffers: 9 (8) / strings = 4816 / storage = 72968 B / avg = 15 B
+# strcache buffers: 9 (8) / strings = 4816 / storage = 72968 B / avg = 15 B
 # current buf: size = 8174 B / used = 7640 B / count = 503 / avg = 15 B
 # other used: total = 64794 B / count = 4313 / avg = 15 B
 # other free: total = 64 B / max = 15 B / min = 5 B / avg = 8 B
@@ -705,7 +706,7 @@ uffers: 9 (8) / strings = 4816 / storage = 72968 B / avg = 15 B
 # strcache performance: lookups = 5511 / hit rate = 12%
 # hash-table stats:
 # Load=4816/8192=59%, Rehash=0, Collisions=3143/5511=57%
-# Finished Make data base on Thu Jul 14 20:35:43 2022
+# Finished Make data base on Thu Jul 14 22:27:51 2022
 
  
 # GNU Make 3.82.90
@@ -716,7 +717,7 @@ uffers: 9 (8) / strings = 4816 / storage = 72968 B / avg = 15 B
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Thu Jul 14 20:35:43 2022
+# Make data base, printed on Thu Jul 14 22:27:51 2022
 
 # Variables
 
@@ -741,8 +742,7 @@ HOMEDRIVE = C:
 # makefile
 CURDIR := d:/libcg/examples
 # default
-SHEL 
-L := sh.exe
+SHELL := sh.exe
 # makefile (from 'Makefile', line 14)
 RM := del /q /f
 # environment
@@ -752,7 +752,8 @@ VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_langu
 # environment
 VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # makefile (from 'Makefile', line 17)
-CFLAGS := -g -ggdb -Wall -O3 -ffunction-sections -fdata-sections -ffreestanding -std=gnu99
+CFLAGS := -g -ggdb -Wall -O3 -ffunction-sections -fdata-sections -ffreestanding - 
+std=gnu99
 # environment
 ONEDRIVE = C:\Users\ShiroganeTsumugi\OneDrive - stu.ahu.edu.cn
 # environment
@@ -866,7 +867,8 @@ VSCODE_CODE_CACHE_PATH = C:\Users\ShiroganeTsumugi\AppData\Roaming\Code\CachedDa
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
-# environment
+# en 
+vironment
 LOGONSERVER = \\SHIROGANE
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
@@ -887,8 +889,7 @@ CPPDEPS :=
 # makefile (from 'Makefile', line 7)
 AS := gcc -x assembler-with-cpp
 # environment
-JA 
-VA_HOME = C:\Program Files\BellSoft\LibericaJDK-17\
+JAVA_HOME = C:\Program Files\BellSoft\LibericaJDK-17\
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\ShiroganeTsumugi\OneDrive - stu.ahu.edu.cn
 # makefile (from 'Makefile', line 16)
@@ -959,7 +960,8 @@ APPDATA = C:\Users\ShiroganeTsumugi\AppData\Roaming
 # environment
 VXIPNPPATH = C:\Program Files (x86)\IVI Foundation\VISA\
 # environment
-TEMP = C:\Users\SHIROG~1\AppData\Local\Temp
+TEMP = C:\U 
+sers\SHIROG~1\AppData\Local\Temp
 # environment
 COMSPEC = C:\Windows\system32\cmd.exe
 # default
@@ -983,8 +985,7 @@ LIBS := -lcg -lm
 # automatic
 ^F = $(notdir $^)
 # environment
-CUDA_PATH = C:\ 
-Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1
 # environment
 NVCUDASAMPLES11_1_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.1
 # makefile (from 'Makefile', line 37)
@@ -1001,7 +1002,8 @@ PROCESSOR_REVISION = 8e0c
 FR_CUSTOMDATA_PATH = D:\game\SteamLibrary\steamapps\common\FaceRig\Mod\VP\PC_CustomData\
 # environment
 IFX_TOOLBOX_UUID = cc77827d-b8af-3d9c-87a7-2ce3b21c4830
-# environment
+# e 
+nvironment
 SIMPLORER_HOME = D:\Program Files\Dedicate\AnsysEM\Ansys Student\v212\Win64
 # default
 .RECIPEPREFIX := 
@@ -1020,7 +1022,8 @@ VSCODE_PID = 7512
 # environment
 USERDOMAIN_ROAMINGPROFILE = SHIROGANE
 # variable set hash-table stats:
-# Load=147/1024=14%, Rehash=0, Collisions=57/209=27%
+# Loa 
+d=147/1024=14%, Rehash=0, Collisions=57/209=27%
 
 # Pattern-specific Variable Values
 
@@ -1030,7 +1033,8 @@ USERDOMAIN_ROAMINGPROFILE = SHIROGANE
 
 # D:\Program Files\Dedicate\MATLAB\bin (key D:/Program Files/Dedicate/MATLAB/bin, mtime 1639642957): 20 files, no impossibilities.
 # C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1657660137): 4 files, no impossibilities.
-# C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.2.1\ (key C:/Program Files/NVIDIA Corporation/Nsight Compute 2020.2.1/, mtime 1632054607): 12 files, no impossibilities.
+# C:\Program Files\NVIDIA Corporation\Nsigh 
+t Compute 2020.2.1\ (key C:/Program Files/NVIDIA Corporation/Nsight Compute 2020.2.1/, mtime 1632054607): 12 files, no impossibilities.
 # C:\Infineon\LauncherService (key C:/Infineon/LauncherService, mtime 1622686967): 6 files, no impossibilities.
 # C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (key C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR, mtime 1622736778): 5 files, no impossibilities.
 # C:\Espressif\tools\idf-git\2.34.2\mingw64\bin (key C:/Espressif/tools/idf-git/2.34.2/mingw64/bin, mtime  
@@ -1038,7 +1042,8 @@ USERDOMAIN_ROAMINGPROFILE = SHIROGANE
 # D:\intelFPGA_lite\20.1\modelsim_ase\win32aloem (key D:/intelFPGA_lite/20.1/modelsim_ase/win32aloem, mtime 1631172457): 110 files, no impossibilities.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1617976470): 31 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1657733921): 154 files, no impossibilities.
-# . (key d:/libcg/examples, mtime 1657802130): 9 files, no impossibilities.
+# . (key d:/libcg/examples, mtime 1657808858): 9 files, no impos 
+sibilities.
 # C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp (key C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/libnvvp, mtime 1632054727): 14 files, no impossibilities.
 # C:\Program Files (x86)\nodejs\ (key C:/Program Files (x86)/nodejs/, mtime 1622560059): 11 files, no impossibilities.
 # D:\Program Files\Portable\cudnn\bin (key D:/Program Files/Portable/cudnn/bin, mtime 1617449169): 9 files, no impossibilities.
@@ -1048,11 +1053,11 @@ USERDOMAIN_ROAMINGPROFILE = SHIROGANE
 # C:\TDM-GCC-64\bin (key C:/TDM-GCC-64/bin, mtime 1631007561): 61 files, no impossibilities.
 # C:\Windows\System32\OpenSSH\: could not be stat'd.
 # D:\Program Files\Applet (key D:/Program Files/Applet, mtime 1648808825): 18 files, no impossibilities.
-# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDI 
-A Corporation/PhysX/Common, mtime 1648838877): 11 files, no impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1648838877): 11 files, no impossibilities.
 # D:\Program Files\Dedicate\MATLAB\runtime\win64 (key D:/Program Files/Dedicate/MATLAB/runtime/win64, mtime 1631454709): 10 files, no impossibilities.
 # C:\Program Files\IVI Foundation\VISA\Win64\Bin\ (key C:/Program Files/IVI Foundation/VISA/Win64/Bin/, mtime 1622892475): 2 files, no impossibilities.
-# C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Python\Python38\ (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Python/Python38/, mtime 1623155169): 20 files, no impossibilities.
+# C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Python\Python38\ (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Python/Pyt 
+hon38/, mtime 1623155169): 20 files, no impossibilities.
 # C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin (key C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin, mtime 1632054739): 43 files, no impossibilities.
 # C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler (key C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler, mtime 1645458986): 17 files, no impossibilities.
 # C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Python\Python38\Scripts\ (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Python/Python38/Scripts/, mtime 1652771708): 145 files, no impossibilities.
@@ -1072,7 +1077,8 @@ A Corporation/PhysX/Common, mtime 1648838877): 11 files, no impossibilities.
 # C:\Program Files\SDCC\bin (key C:/Program Files/SDCC/bin, mtime 1652802712): 41 files, no impossibilities.
 # C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\ (key C:/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin/, mtime 1622892475): 2 files, no impossibilities.
 # D:\Program Files\Dedicate\MATLAB\polyspace\bin (key D:/Program Files/Dedicate/MATLAB/polyspace/bin, mtime 1631454741): 83 files, no impossibilities.
-# C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps (key C:/Users/ShiroganeTsumugi/AppData/Local/Microsoft/WindowsApps, mtime 1656915084): 25 files, no impossibilities.
+# C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps (key C:/Users/ShiroganeTsumugi/AppData/Local/Microsoft 
+/WindowsApps, mtime 1656915084): 25 files, no impossibilities.
 # C:\Program Files\AntiMicroX\bin (key C:/Program Files/AntiMicroX/bin, mtime 1647186020): 16 files, no impossibilities.
 
 # 5144 files, no impossibilities in 41 directories.
@@ -1089,7 +1095,8 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h:
 #  File has been updated.
 #  Successfully updated.
 
-C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_a 
+pi/string_s.h:
 #  Implicit rule search has been done.
 #  Last modified 2021-05-16 12:02:14
 #  File has been updated.
@@ -1127,7 +1134,8 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 #  Successfully updated.
 
 all: examples
-#  Phony target (prerequisite of .PHONY).
+#  Phony target (p 
+rerequisite of .PHONY).
 #  Command line target.
 #  Implicit rule search has not been done.
 #  File does not exist.
@@ -1146,7 +1154,8 @@ main.c:
 #  Implicit rule search has been done.
 #  Last modified 2022-07-13 03:16:20
 #  File has been updated.
-#  Successfully updated.
+#   
+Successfully updated.
 
 C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint-gcc.h:
 #  Implicit rule search has been done.
@@ -1189,7 +1198,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:37:23
+#  Last modified 2022-07-14 21:20:55
 #  File has been updated.
 #  Successfully updated.
 
@@ -1228,7 +1237,7 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h:
 # Not a target:
 main.o.d:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 20:35:29
+#  Last modified 2022-07-14 22:27:26
 #  File has been updated.
 #  Successfully updated.
 
@@ -1297,12 +1306,11 @@ C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h:
  updated.
 #  Successfully updated.
 
-main.o: main.c main.c cat.h ../src/cg.h ../src/swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h  
-C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint-gcc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32 
+main.o: main.c main.c cat.h ../src/cg.h ../src/swft.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/assert.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_mac.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_secapi.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/vadefs.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/limits.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed/syslimits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/setjmp.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stddef.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/string.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/string_s.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint-gcc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_wstdlib.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/_mingw_off_t.h C:/TDM-GCC-64/x86_64-w64-mingw32 
 /include/swprintf.inl C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdio_s.h C:/TDM-GCC-64/x86_64-w64-mingw32/include/math.h
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: 'main'
-#  Last modified 2022-07-14 20:35:30
+#  Last modified 2022-07-14 22:27:26
 #  File has been updated.
 #  Successfully updated.
 #  recipe to execute (from 'Makefile', line 61):
@@ -1393,7 +1401,7 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/stdint.h:
 e: lookups = 5308 / hit rate = 9%
 # hash-table stats:
 # Load=4810/8192=59%, Rehash=0, Collisions=2840/5308=54%
-# Finished Make data base on Thu Jul 14 20:35:43 2022
+# Finished Make data base on Thu Jul 14 22:27:51 2022
 
  
 Makefile:8: recipe for target 'all' failed
@@ -1401,7 +1409,7 @@ Makefile:8: recipe for target 'all' failed
 mingw32-make.exe: *** [all] Error 1
 
 
-# Make data base, printed on Thu Jul 14 20:35:43 2022
+# Make data base, printed on Thu Jul 14 22:27:51 2022
 
 # Variables
 
@@ -1598,8 +1606,7 @@ MKL_SERIAL = YES
 # environment
 LC_ALL = C
 # environment
-DAS_HOME = C:\Program Files\D 
-AS64
+DAS_HOME = C:\Program Files\DAS64
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -1647,7 +1654,8 @@ rn-specific Variable Values
 
 # D:\Program Files\Dedicate\MATLAB\bin (key D:/Program Files/Dedicate/MATLAB/bin, mtime 1639642957): 20 files, no impossibilities.
 # C:\Users\ShiroganeTsumugi\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/ShiroganeTsumugi/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1657660137): 4 files, no impossibilities.
-# C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.2.1\ (key C:/Program Files/NVIDIA Corporation/Nsight Compute 2020.2.1/, mtime 1632054607): 12 files, no impossibilities.
+# C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.2.1\ (key C:/Program Files/NVIDIA Corpora 
+tion/Nsight Compute 2020.2.1/, mtime 1632054607): 12 files, no impossibilities.
 # C:\Infineon\LauncherService (key C:/Infineon/LauncherService, mtime 1622686967): 6 files, no impossibilities.
 # C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (key C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR, mtime 1622736778): 5 files, no impossibilities.
 # C:\Espressif\tools\idf-git\2.34.2\mingw64\bin (key C:/Espressif/tools/idf-git/2.34.2/mingw64/bin, mtime 1644675169): 57 files, no impossibilities.
@@ -1655,7 +1663,7 @@ rn-specific Variable Values
 A_lite\20.1\modelsim_ase\win32aloem (key D:/intelFPGA_lite/20.1/modelsim_ase/win32aloem, mtime 1631172457): 110 files, no impossibilities.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1617976470): 31 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1657733921): 154 files, no impossibilities.
-# . (key d:/libcg, mtime 1657781971): 12 files, no impossibilities.
+# . (key d:/libcg, mtime 1657808788): 14 files, no impossibilities.
 # C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA 
 \v11.1\libnvvp (key C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/libnvvp, mtime 1632054727): 14 files, no impossibilities.
 # C:\Program Files (x86)\nodejs\ (key C:/Program Files (x86)/nodejs/, mtime 1622560059): 11 files, no impossibilities.
@@ -1678,8 +1686,7 @@ cal/Programs/Python/Python38/Scripts/, mtime 1652771708): 145 files, no impossib
 # C:\Windows (key C:/Windows, mtime 1657774068): 122 files, no impossibilities.
 # C:\Program Files\AdoptOpenJDK\jdk-13.0.2.8-openj9\bin (key C:/Program Files/AdoptOpenJDK/jdk-13.0.2.8-openj9/bin, mtime 1631007759): 125 files, no impossibilities.
 # D:\Program Files\Applet\platform-tools (key D:/Program Files/Applet/platform-tools, mtime 1579664927): 19 files, no impossibilities.
-# C:\Program Files\Eclipse Foundation\jdk- 
-16.0.2.7-hotspot\bin (key C:/Program Files/Eclipse Foundation/jdk-16.0.2.7-hotspot/bin, mtime 1632230788): 123 files, no impossibilities.
+# C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin (key C:/Program Files/Eclipse Foundation/jdk-16.0.2.7-hotspot/bin, mtime 1632230788): 123 files, no impossibilities.
 # C:\Program Files\qemu (key C:/Program Files/qemu, mtime 1648568886): 3 files, no impossibilities.
 # C:\Program Files\BellSoft\LibericaJDK-17\bin\ (key C:/Program Files/BellSoft/LibericaJDK-17/bin/, mtime 1655028387): 82 files, no impossibilities.
 # C:\Program Files (x86)\Tencent\΢��web�����߹���\dll: could not be stat'd.
@@ -1688,14 +1695,15 @@ cal/Programs/Python/Python38/Scripts/, mtime 1652771708): 145 files, no impossib
 # D:\Program Files\Wrapper (key D:/Program Files/Wrapper, mtime 1621698687): 6 files, no impossibilities.
 # C:\Program Files (x86)\Nmap (key C:/Program Files (x86)/Nmap, mtime 1650028468): 37 files, no impossibilities.
 # C:\Windows\system32 (key C:/Windows/system32, mtime 1657738773): 3115 files, no impossibilities.
-# C:\Program Files\SDCC\bin (key C:/Program Files/SDCC/bin, mtime 1652802712): 41 files, no impossibilities.
+# C:\Program Files\SDCC\bin (key C:/Program Files/SDCC/bin, mtime 1652802712): 41 files, no im 
+possibilities.
 # C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\ (key C:/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin/, mtime 1622892475): 2 files, no impossibilities.
 # D:\Program Files\Dedicate\MATLAB\polyspace\bin (key D:/Program Files/Dedicate/MATLAB/polyspace/bin, mtime 1631454741): 83 files, no impossibilities.
 # C:\Users\ShiroganeTsumugi\AppData\Local\Microsoft\WindowsApps (key C:/Users/ShiroganeTsumugi/AppData/Local/Microsoft/WindowsApps, mtime 1656915084): 25 files, no impossibilities.
 # 
  C:\Program Files\AntiMicroX\bin (key C:/Program Files/AntiMicroX/bin, mtime 1647186020): 16 files, no impossibilities.
 
-# 5147 files, no impossibilities in 41 directories.
+# 5149 files, no impossibilities in 41 directories.
 
 # Implicit Rules
 
@@ -1750,24 +1758,28 @@ on time never checked.
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:56:51
+#  Last modified 2022-07-14 22:25:18
 #  File has been updated.
 #  Successfully updated.
+
+execute:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 21):
+	@$(MAKE) -C workshop run
 
 # Not a target:
 .DEFAULT:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
-#  File has not been updated.
+#  Fi 
+le has not been updated.
 
-run:
+run: all execute
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  recipe to execute (from 'Makefile', line 18):
-	$(al 
-l)
-	@$(MAKE) -C workshop run
 
 clean:
 #  Phony target (prerequisite of .PHONY).
@@ -1780,22 +1792,22 @@ clean:
 	@$(MAKE) -C workshop clean
 
 # files hash-table stats:
-# Load=7/1024=1%, Rehash=0, Collisions=0/23=0%
-# VPATH Search Paths
+# Load=8/1024=1%, Rehash=0, Collisions=0/27=0%
+# VPATH Sea 
+rch Paths
 
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 9 (8) / strings =  
-4779 / storage = 71374 B / avg = 14 B
-# current buf: size = 8174 B / used = 6060 B / count = 471 / avg = 12 B
-# other used: total = 63200 B / count = 4308 / avg = 14 B
-# other free: total = 78 B / max = 15 B / min = 4 B / avg = 9 B
+# strcache buffers: 9 (8) / strings = 4782 / storage = 71414 B / avg = 14 B
+# current buf: size = 8174 B / used = 6080 B / count = 473 / avg = 12 B
+# other used: total = 63240 B / count = 4309 / avg = 14 B
+# other free: total = 58 B / max = 15 B / min = 3 B / avg = 7 B
 
-# strcache performance: lookups = 5204 / hit rate = 8%
+# strcache performance: lookups = 5210 / hit rate = 8%
 # hash-table stats:
-# Load=4779/8192=58%, Rehash=0, Collisions=2678/5204=51%
-# Finished Make data base on Thu Jul 14 20:35:43 2022
+# Load=4782/8192=58%, Rehash=0, Collisions=2684/5210=52%
+# Finished Make data base on Thu Jul 14 22:27:51 2022
 
  
