@@ -1,0 +1,27 @@
+mingw32-make.exe all --dry-run --keep-going --print-directory
+mingw32-make.exe: Entering directory 'd:/libcg'
+mingw32-make.exe -C src all
+ 
+mingw32-make.exe[1]: Entering directory 'd:/libcg/src'
+mingw32-make.exe[1]: Nothing to be done for 'all'.
+ 
+mingw32-make.exe[1]: Leaving directory 'd:/libcg/src'
+ 
+mingw32-make.exe -C examples all
+ 
+mingw32-make.exe[1]: Entering directory 'd:/libcg/examples'
+echo [LD] Linking examples
+gcc  -L ../src main.o -o examples -lcg -lm -static
+ 
+mingw32-make.exe[1]: Leaving directory 'd:/libcg/examples'
+ 
+mingw32-make.exe -C workshop all
+ 
+mingw32-make.exe[1]: Entering directory 'd:/libcg/workshop'
+echo [LD] Linking workshop
+gcc  -L ../src paint.o main.o -o workshop -lcg -lm -static
+ 
+mingw32-make.exe[1]: Leaving directory 'd:/libcg/workshop'
+ 
+mingw32-make.exe: Leaving directory 'd:/libcg'
+ 

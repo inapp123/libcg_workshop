@@ -11,7 +11,7 @@ LD			:= $(CROSS_COMPILE)ld
 AR			:= $(CROSS_COMPILE)ar
 OC			:= $(CROSS_COMPILE)objcopy
 OD			:= $(CROSS_COMPILE)objdump
-RM			:= rm -fr
+RM			:= del /q /f
 
 ASFLAGS		:= -g -ggdb -Wall -O3
 CFLAGS		:= -g -ggdb -Wall -O3
@@ -56,6 +56,7 @@ $(CPPOBJS) : %.o : %.cpp
 	@$(CXX) $(CXXFLAGS) -MD -MP -MF $@.d $(INCDIRS) -c $< -o $@
 
 clean:
-	@$(RM) $(DEPS) $(OBJS) $(NAME)
+	@$(RM) *.o  *.o.d *.a
+# $(DEPS) $(OBJS) $(NAME)
 
 sinclude $(DEPS)

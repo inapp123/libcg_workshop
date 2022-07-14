@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.asm": "8051",
+        "cg.h": "c",
+        "swft.h": "c",
+        "setjmp.h": "c",
+        "assert.h": "c",
+        "util.h": "c"
+    },
+    "makefile.makePath": "mingw32-make.exe",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\libcg\\workshop",
+            "binaryPath": "d:\\libcg\\workshop\\workshop",
+            "binaryArgs": []
+        }
+    ]
+}
